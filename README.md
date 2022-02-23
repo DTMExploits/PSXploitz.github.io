@@ -1,5 +1,5 @@
 # PSXploitz.github.io
-PS-Phwoar! Lite Version Exploit Host Menu for 5.05 FW with GoldHEN v2.1 Coded by SiSTRo
+PS-Phwoar! Lite Version Exploit Host Menu for 5.05 FW with GoldHEN v2.1.2 Coded by SiSTRo
 
 PS-Phwoar! v1.4 Lite Version By DTM Exploits
 
