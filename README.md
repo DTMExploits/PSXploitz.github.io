@@ -4,7 +4,7 @@ PS-Phwoar! Lite Version Exploit Host Menu for 5.05 FW with GoldHEN v2.1 Coded by
 PS-Phwoar! v1.4 Lite Version By DTM Exploits
 
 - added Avatar v2.0
-- added GoldHEN v2.1
+- added GoldHEN v2.1.2
 - added ToDEX v1.0
 - added Orbis Toolbox v1.0 Alpha Build 1190
 - added Linux payloads for Gentoo Linux
